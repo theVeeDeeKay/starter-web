@@ -9,3 +9,6 @@ As stated above, adding example text to Purpose
 ## Deployment
 This is example Deployment text.
 ## How to Contribute
+
+###Copyright
+2014 Git.Training
