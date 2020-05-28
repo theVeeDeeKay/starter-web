@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project on Github.
-
+Adding a line for REBASING example
 ## Introduction
 This is example text to show difference parts of the Git repository and various commands using a web project.
 ## Purpose
