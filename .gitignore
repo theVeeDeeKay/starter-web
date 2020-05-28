@@ -1,2 +1,3 @@
 unwanted-file.txt
 log/
+*.orig
